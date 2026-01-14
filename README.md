@@ -1,2 +1,4 @@
 # pi-estimator
-Project provides support for estimating the value of pi according to the number of attempts
+
+## Description
+This project provides support for estimating the value of pi according to the number of attempts.
